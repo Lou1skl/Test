@@ -1,0 +1,21 @@
+Maßnahmen-ID;Maßnahmenbeschreibung;Kostenstelle;Geplante Einsparung (€);Realisierte Einsparung (€);Status;Letztes Update;Erfüllungsgrad (%);Time-to-Saving (Tage);ROI-Schätzung (%);Automatisierter KPI-Status;Department
+M001;Shared Services Aufbau;2215;5189;3754;nicht erfuellt;2025-03-01;72,3;79;73;Ueber Plan;Produktion
+M002;Reduktion externer Beratung;1955;24118;21055;nicht erfuellt;2025-03-06;87,3;60;72;Risiko;Forschung
+M003;Verhandlungsrunde Mietvertrag;3324;8005;5610;nicht erfuellt;2025-03-11;70,1;48;87;Ueber Plan;Marketing
+M004;Cloud-Migration;2184;26042;18635;nicht erfuellt;2025-03-16;71,6;34;62;Im Rahmen;Marketing
+M005;Shared Services Aufbau;1459;6899;5138;nicht erfuellt;2025-03-21;74,5;64;101;Ueber Plan;Logistik
+M006;Abbau ungenutzter Lizenzen;4385;29118;29118;abgeschlossen;2025-03-26;100;84;127;Im Rahmen;Forschung
+M007;Energieeinsparung;1021;6267;5229;nicht erfuellt;2025-03-31;83,4;28;76;Ueber Plan;Forschung
+M008;Shared Services Aufbau;3300;22912;18977;nicht erfuellt;2025-04-05;82,8;20;138;Risiko;Finanzen
+M009;Verhandlungsrunde Mietvertrag;1747;16394;16394;abgeschlossen;2025-04-10;100;27;83;Ueber Plan;Marketing
+M010;Cloud-Migration;3904;8556;8248;nicht erfuellt;2025-04-15;96,4;82;143;Im Rahmen;IT
+M011;Reduktion externer Beratung;4632;8890;8197;nicht erfuellt;2025-04-20;92,2;30;125;Risiko;HR
+M012;Verhandlungsrunde Mietvertrag;1474;13838;13838;abgeschlossen;2025-04-25;100;27;130;Risiko;HR
+M013;Verhandlungsrunde Mietvertrag;2082;19502;18173;nicht erfuellt;2025-04-30;93,2;54;74;Ueber Plan;Produktion
+M014;Energieeinsparung;3558;26777;26777;abgeschlossen;2025-05-05;100;54;104;Risiko;Marketing
+M015;Automatisierung von Prozessen;4753;15627;15627;abgeschlossen;2025-05-10;100;52;138;Im Rahmen;Marketing
+M016;Cloud-Migration;3047;13792;13792;abgeschlossen;2025-05-15;100;24;140;Im Rahmen;HR
+M017;Optimierung Lieferantenkonditionen;4547;15555;13047;nicht erfuellt;2025-05-20;83,9;60;86;Im Rahmen;Marketing
+M018;Verhandlungsrunde Mietvertrag;3747;15253;12271;nicht erfuellt;2025-05-25;80,4;47;117;Ueber Plan;Finanzen
+M019;Automatisierung von Prozessen;1975;13433;11649;nicht erfuellt;2025-05-30;86,7;26;42;Im Rahmen;Vertrieb
+M020;Optimierung Lieferantenkonditionen;2806;15233;15233;abgeschlossen;2025-06-04;100;31;40;Im Rahmen;Einkauf
